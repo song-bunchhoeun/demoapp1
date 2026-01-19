@@ -1,0 +1,7 @@
+/Users/songbunchhoeun/Desktop/Projects/demoapp/bin/Release/net10.0/publish/demoapp
+/Users/songbunchhoeun/Desktop/Projects/demoapp/bin/Release/net10.0/publish/appsettings.Development.json
+/Users/songbunchhoeun/Desktop/Projects/demoapp/bin/Release/net10.0/publish/appsettings.json
+/Users/songbunchhoeun/Desktop/Projects/demoapp/bin/Release/net10.0/publish/demoapp.dll
+/Users/songbunchhoeun/Desktop/Projects/demoapp/bin/Release/net10.0/publish/demoapp.deps.json
+/Users/songbunchhoeun/Desktop/Projects/demoapp/bin/Release/net10.0/publish/demoapp.runtimeconfig.json
+/Users/songbunchhoeun/Desktop/Projects/demoapp/bin/Release/net10.0/publish/demoapp.pdb
